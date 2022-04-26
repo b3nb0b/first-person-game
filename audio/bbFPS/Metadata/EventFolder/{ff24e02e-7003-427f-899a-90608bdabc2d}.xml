@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EventFolder" id="{ff24e02e-7003-427f-899a-90608bdabc2d}">
+		<property name="name">
+			<value>Flintlock</value>
+		</property>
+		<relationship name="folder">
+			<destination>{bcf923aa-937b-403d-a5ff-ea100729001a}</destination>
+		</relationship>
+	</object>
+</objects>
